@@ -2,6 +2,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
     text-align: center;
+    font-weight: normal;
 
 }
 
@@ -16,7 +17,7 @@
     text-decoration: none;
     color: aquamarine;
 }
-p {
+.case {
     color: aquamarine;
     font-size: 16px;
 }
@@ -24,3 +25,31 @@ p {
 .video {
     align-content: center;
 }
+
+.travel-text {
+    color: white;
+    font-weight: 300px;
+    font-size: 42px;
+}
+
+.container {
+    color: gray;
+    font-size: 21px;
+
+}
+
+.camp {
+    display: flex;
+    margin: auto auto;
+}
+
+.phone {
+    padding-top: 20px;
+}
+
+.soon {
+    color: white;
+    font-size: 42px;
+}
+
+
