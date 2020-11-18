@@ -1,15 +1,26 @@
 * {
-    font-family: Verdana;
-    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
+    text-align: center;
 
 }
 
 #intro-text h1 {
     font-size: 50px;
     color: white;
+
+
 }
 
-.link a {
+.link--cta {
+    text-decoration: none;
     color: aquamarine;
+}
+p {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.video {
+    align-content: center;
 }
