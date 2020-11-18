@@ -1,0 +1,15 @@
+* {
+    font-family: Verdana;
+    font-weight: normal;
+    background-color: black;
+
+}
+
+#intro-text h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.link a {
+    color: aquamarine;
+}
